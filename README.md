@@ -2,7 +2,7 @@
 Naruto quotes generator client for DIO lesson.
 
 ![screenshot](screenshot.png?raw=true "screenshot")
-
+![screenshot](testes-e-vs-code.gif?raw=true "screenshot")
 # Install
 Clone this repository and install it dependencies with this command:
 ```sh
